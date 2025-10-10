@@ -1,0 +1,1 @@
+Graficos utilizados na análise
