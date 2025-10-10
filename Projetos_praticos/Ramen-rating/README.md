@@ -33,8 +33,12 @@ Ao observar as notas, pack e bowl têm desempenho muito semelhante — 3.70 e 3.
 Dentro desses mercados, Nissin lidera no Japão e EUA, enquanto Nongshim é a marca preferida dos consumidores sul-coreanos.
 
 Visualizações:
-![Consumo total](img/popularidade_ramen.png)
-
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="img/popularidade_ramen.png" width="45%">
+  <img src="img/país_melhor_val.png" width="45%">
+  <img src="img/jp_usa_co.png" width="45%">
+  <img src="img/popularidade_formato.png" width="45%">
+</div>
 
 🧠 Conclusões
 
