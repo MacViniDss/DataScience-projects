@@ -22,7 +22,7 @@ Conclusão:
 Optou-se por interromper a evolução analítica e documentar o problema, mantendo o projeto como estudo de data quality e integração entre tabelas.
 
 A próxima etapa será realizada com um novo conjunto de dados limpo e consistente:
-📦 Retail Sales Dataset (Kaggle), com foco em modelagem, SQL e dashboard em Looker Studio.
+Retail Sales Dataset (Kaggle), com foco em modelagem, SQL e dashboard em Looker Studio.
 
 Aprendizado
 
