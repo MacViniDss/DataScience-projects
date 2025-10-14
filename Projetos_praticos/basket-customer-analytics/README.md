@@ -16,6 +16,10 @@ Mas apenas 13.871 apareciam em transações,
 E mais de 15.000 registros de vendas referenciavam clientes inexistentes na base de clientes.
 
 Isso inviabiliza análises consistentes e dificulta a verificação de métricas por perfil demográfico (como sexo ou faixa etária).
+Prova:
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="imagens/dashboard.png" width="45%">
+</div>
 
 Conclusão:
 
