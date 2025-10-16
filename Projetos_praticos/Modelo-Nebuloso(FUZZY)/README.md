@@ -1,7 +1,7 @@
 **INTRODUÇÃO**
 
 O presente trabalho tem o objetivo de introduzir o uso do programa GNU Octave, que é usado para experimento e a solução de problemas numéricos, com ele vamos resolver uma simples situação de cálculo de gorjeta com dois caminhos diferentes, a primeira solução será feita com uma metodologia direta e a segunda usando a Lógica Nebulosa. 
-- **Critêrios:**
+- **Critérios:**
 • Se a comida foi de qualidade ruim ou fomos mal atendidos, vamos deixar uma gorjeta pequena, mais próxima de 5%;
 •Se o serviço for bom, vamos deixar uma gorjeta mediana, mais próxima de 10%;
 •Se a comida ou o serviço nos surpreenderam positivamente, vamos deixar uma gorjeta generosa, mais próxima de 15%.
