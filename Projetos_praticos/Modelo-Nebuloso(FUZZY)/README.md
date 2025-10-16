@@ -13,7 +13,7 @@ A Lógica Nebulosa é uma técnica da Inteligência Artificial projetada para li
 valores linguísticos nebulosos
 - 2. **Inferência:** O núcleo do sistema, onde as conclusões são tiradas com base na
 regras definidas pelo especialista.
-- 3. **Defuzzificação:**É o processo final que reverte o resultado nebuloso (um conjunto de
+- 3. **Defuzzificação:** É o processo final que reverte o resultado nebuloso (um conjunto de
 graus de pertinência) em um único valor numérico e prático que pode ser aplicado.
 
 **CONCLUSÃO**
