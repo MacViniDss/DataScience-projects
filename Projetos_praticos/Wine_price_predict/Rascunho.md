@@ -24,5 +24,5 @@ OBJETIVOS:
   - Por fim peguei os 8395 valores ausentes em **'price'** e os completei usando a media de seus valores dentro do **MultiIndex** ['country', 'variety', 'points']:
       - df['price'] = df.groupby(['country', 'variety', 'points'])['price'].transform(lambda x: x.fillna(x.median()))
   - Pra terminar deixei todos os valores **object**(str) uniformes
-  - Salve o novo arquivo como "wine_fullclean.csv"
+  - Salvei o novo arquivo como "wine_fullclean.csv"
 2º) Criando os modelos (Modeling):
