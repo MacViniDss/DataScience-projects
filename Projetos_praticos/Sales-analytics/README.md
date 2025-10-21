@@ -1,4 +1,5 @@
 EM PRODUÇÃO!
+
 Conclusões:
 1º) Resultados obtidos atraves da analise de queries no **sql**:
     - O produto id_1090 é o mais vendido, porem quem trás mais lucro a empresa é o id_1099 que está na 4º posição de mais vendidos:
