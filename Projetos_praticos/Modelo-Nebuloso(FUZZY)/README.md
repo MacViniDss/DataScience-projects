@@ -1,3 +1,5 @@
+FINALIZADO!
+
 **INTRODUÇÃO**
 
 O presente trabalho tem o objetivo de introduzir o uso do programa GNU Octave, que é usado para experimento e a solução de problemas numéricos, com ele vamos resolver uma simples situação de cálculo de gorjeta com dois caminhos diferentes, a primeira solução será feita com uma metodologia direta e a segunda usando a Lógica Nebulosa. 
