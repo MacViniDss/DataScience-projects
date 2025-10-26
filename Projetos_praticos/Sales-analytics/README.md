@@ -16,16 +16,18 @@ Este projeto tem como objetivo aplicar conceitos de engenharia de dados e análi
 
 As seguintes consultas foram executadas para análise de métricas-chave:
 
-[Top 10 produtos mais lucrativos](sql/query2_top_vendas_produtos.sql)
-[Lucro por setor de venda](sql/query3_vendas_categoria.sql)
-[Lucro por região](sql/query4_vendas_região.sql)
-[Lucro por representante de venda](sql/query5_vendas_rep.sql)
+- [Top 10 produtos mais lucrativos](sql/query2_top_vendas_produtos.sql)
+- [Lucro por setor de venda](sql/query3_vendas_categoria.sql)
+- [Lucro por região](sql/query4_vendas_região.sql)
+- [Lucro por representante de venda](sql/query5_vendas_rep.sql)
 
 📊 Visualizações (Matplotlib & Seaborn):
 Foram gerados diversos gráficos para auxiliar na análise:
 
 <img src= "plots/lucro_rep.png" width="400">
+
 <img src= "plots/qtde_vendas_rep.png" width="400">
+
 <img src= "plots/qtde_vendas_região.png" width="400">
 
 Entre outras em: [Plots](https://github.com/MacViniDss/DataScience-projects/tree/main/Projetos_praticos/Sales-analytics/plots)
