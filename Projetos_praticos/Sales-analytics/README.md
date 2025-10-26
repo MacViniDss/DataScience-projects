@@ -32,7 +32,7 @@ Vendas por mês
 
 Foram gerados diversos gráficos para auxiliar na análise:
 
-<img src="Sales_analytics/plots/lucro_rep.png" width="400">
+<img src="Sales-analytics/plots/lucro_rep.png" width="400">
 
 lucro_região_setor
 
