@@ -16,10 +16,7 @@ Este projeto tem como objetivo aplicar conceitos de engenharia de dados e análi
 
 As seguintes consultas foram executadas para análise de métricas-chave:
 
-Vendas por mês
-
-- Top 5 produtos mais lucrativos
-
+[Top 5 produtos mais lucrativos](sql/query2_top_vendas_produtos.sql)
 - Top 5 produtos mais vendidos
 
 - Lucro por setor de venda
@@ -32,10 +29,9 @@ Vendas por mês
 
 Foram gerados diversos gráficos para auxiliar na análise:
 
-<img src= "plots/lucro_rep.png" width="150">
+<img src= "plots/lucro_rep.png" width="400">
 <img src= "plots/qtde_vendas_rep.png" width="400">
 <img src= "plots/qtde_vendas_região.png" width="400">
-<img src= "Projetos_praticos/Sales-analytics/plots/top5_produtos_qtde_vendas.png" width="400">
 
 🧩 Ferramentas Utilizadas:
 
