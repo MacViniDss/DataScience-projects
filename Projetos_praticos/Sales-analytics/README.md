@@ -20,6 +20,8 @@ As seguintes consultas foram executadas para análise de métricas-chave:
 - [Lucro por setor de venda](sql/query3_vendas_categoria.sql)
 - [Lucro por região](sql/query4_vendas_região.sql)
 - [Lucro por representante de venda](sql/query5_vendas_rep.sql)
+- [Outras Queries](https://github.com/MacViniDss/DataScience-projects/tree/main/Projetos_praticos/Sales-analytics/sql)
+- [Resultados das Queries](https://github.com/MacViniDss/DataScience-projects/tree/main/Projetos_praticos/Sales-analytics/resultado_consultas)
 
 📊 Visualizações (Matplotlib & Seaborn):
 Foram gerados diversos gráficos para auxiliar na análise:
