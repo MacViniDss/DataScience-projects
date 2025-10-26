@@ -32,6 +32,8 @@ Vendas por mês
 
 Foram gerados diversos gráficos para auxiliar na análise:
 
+<img src="Sales_analytics/plots/lucro_rep.png" width="400">
+
 lucro_região_setor
 
 lucro_rep
@@ -69,7 +71,7 @@ Jupyter Notebook (ambiente de análise)
 
 - O produto id_1090 é o mais vendido, porém o mais lucrativo é o id_1099, na 4ª posição em volume.
 
-- O representante David lidera em lucro e volume de vendas; Eve e Bob seguem logo atrás. Charlie apresenta desempenho inferior — recomenda-se treinamento.
+- O representante David lidera em lucro e volume de vendas; Eve e Bob seguem logo atrás. Charlie apresenta desempenho inferior, recomenda-se treinamento.
 
 - A Região Norte é a mais lucrativa. Já o Sul apresenta baixo volume de vendas — é necessário investigar causas e criar estratégias regionais.
 
