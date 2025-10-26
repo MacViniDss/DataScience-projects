@@ -35,7 +35,7 @@ Foram gerados diversos gráficos para auxiliar na análise:
 <img src="plots/lucro_rep.png" width="150">
 <img src="plots/qtde_vendas_rep.png" width="400">
 <img src="plots/qtde_vendas_região.png" width="400">
-<img src= "plots/top5_produtos_qtde_vendas.png" width="400">
+<img src="plots/top5_produtos_qtde_vendas.png" width="400">
 
 🧩 Ferramentas Utilizadas:
 
