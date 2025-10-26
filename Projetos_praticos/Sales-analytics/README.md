@@ -27,6 +27,7 @@ Foram gerados diversos gráficos para auxiliar na análise:
 <img src= "plots/lucro_rep.png" width="400">
 <img src= "plots/qtde_vendas_rep.png" width="400">
 <img src= "plots/qtde_vendas_região.png" width="400">
+
 Entre outras em: [Plots](https://github.com/MacViniDss/DataScience-projects/tree/main/Projetos_praticos/Sales-analytics/plots)
 
 🧩 Ferramentas Utilizadas:
