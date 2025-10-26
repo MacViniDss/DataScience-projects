@@ -31,25 +31,11 @@ Vendas por mês
 📊 Visualizações (Matplotlib & Seaborn):
 
 Foram gerados diversos gráficos para auxiliar na análise:
-lucro_região_setor
-<img src="plots/lucro_região_setor.png" width="150">
-lucro_rep_região
-<img src="plots/lucro_rep_região.png" width="150">
-lucro_rep_setor
-<img src="plots/lucro_rep_setor.png" width="150">
+
 <img src="plots/lucro_rep.png" width="150">
-lucro_setor_região
-<img src="plots/lucro_setor_região.png" width="400">
-qtde_vendas_clientes
-<img src="plots/qtde_vendas_clientes.png" width="400">
-qtde_vendas_região
-<img src="plots/qtde_vendas_região.png" width="400">
-qtde_vendas_rep
 <img src="plots/qtde_vendas_rep.png" width="400">
-qtde_vendas_setor
-<img src="plots/qtde_vendas_setor.png" width="400">
-qtde_vendas_tempo
-<img src="plots/qtde_vendas_tempo.png" width="400">
+<img src="plots/qtde_vendas_região.png" width="400">
+<img src= "plots/top5_produtos_qtde_vendas.png" width="400">
 
 🧩 Ferramentas Utilizadas:
 
