@@ -7,6 +7,8 @@ Este projeto apresenta um viewer interativo dos três principais biomas brasilei
 O mapa permite explorar a distribuição territorial dos biomas sobre o território nacional.
 As camadas podem ser ligadas/desligadas, facilitando a comparação entre regiões.
 
+![plot](mapa_3biomas.png)
+
 🧩 Tecnologias Utilizadas
 
 - R
