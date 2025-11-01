@@ -65,7 +65,7 @@ Três versões do dataset foram utilizadas para comparar desempenho e qualidade 
 
 ---
 
-## 🧮 Avaliação do Projeto e Metodologia Feita pelo ChatGpt e Google Gemini:
+## 🧮 Avaliação do Projeto e Metodologia:
 
 ### **1️⃣ Metodologia (10/10)**
 
